@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d3a9ef0-faf0-4a93-a44d-92a2bafbf216" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travelo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trvl/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/trvl/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trvl/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/trvl/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568604719677</updated>
-      <workItem from="1568605056560" duration="7194000" />
+      <workItem from="1568605056560" duration="7574000" />
     </task>
     <servers />
   </component>

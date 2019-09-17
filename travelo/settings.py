@@ -71,7 +71,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'travelo.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
@@ -127,3 +126,7 @@ STATICFILES_DIRS=[
     os.path.join(BASE_DIR,'static'),
 ]
 STATIC_ROOT=os.path.join(BASE_DIR,'assets')
+
+#superuser
+# username=travelo
+# password=Hello@123
