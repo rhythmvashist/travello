@@ -9,4 +9,7 @@ class Destination(models.Model):
     offer=models.BooleanField(default=False)
     img=models.ImageField(upload_to='pics')
 
+    def __str__(self):
+        return self.name
+
 
